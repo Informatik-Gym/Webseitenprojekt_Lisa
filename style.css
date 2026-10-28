@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(65, 2, 65, 0.726);
+    font-family: Times New Roman, Times, serif;
+    color:black
+}
+.cool-text {
+    color: #f05858;
+}
+.rahmen {
+    border: 2px solid rgba(186, 175, 186, 0.726);
+    background-color: rgba(186, 175, 186, 0.726);
+}
+.sidebar {
+    width: 340px;
+}
+.raster {
+    display: grid;
+    gap: 1rem;
+}
