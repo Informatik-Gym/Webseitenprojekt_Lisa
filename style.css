@@ -3,17 +3,19 @@ body{
     font-family: Times New Roman, Times, serif;
     color:black
 }
-.cool-text {
-    color: #f05858;
-}
+
+
 .rahmen {
     border: 2px solid rgba(186, 175, 186, 0.726);
+    border-radius: 10px;
     background-color: rgba(186, 175, 186, 0.726);
+    color:black
+    width: 100%;
+    margin: 0.5rem;
+    padding: 2%;
+    list-style-type: none; /* Remove bullets */
 }
-.sidebar {
-    width: 340px;
-}
-.raster {
-    display: grid;
-    gap: 1rem;
+
+h2 {
+    
 }
