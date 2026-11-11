@@ -25,3 +25,10 @@ Zeitplanung:
 
 CSS Attribut:
 https://www.w3schools.com/howto/howto_css_list_without_bullets.asp
+
+HTML Attribut:
+https://www.w3schools.com/html/html_youtube.asp
+Ich habe auf dieser oben verlinkten Website nachgelesen wie man ein Youtube Video auf eienr Website anzeigt. Dazu habe ich den Einbettungscode kopiert und in mein index.html Dokument eingefügt.
+Einbettungscode des Youtubevideos:
+<iframe width="867" height="488" src="https://www.youtube.com/embed/BzVwgTHuniY" title="[VOSTFR] Emma Watson : discours pour #HeForShe - ONU (20/09/2014)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
